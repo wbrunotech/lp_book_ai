@@ -8,4 +8,4 @@ A inclusão de imagens relevantes reforça a narrativa. Usei os links interativo
 Convido você a explorar essa história e descobrir mais sobre minhas habilidades no desenvolvimento web. 🌌💻
 
 ### ✨ Acesse: 
-https://wbrunotech.github.io/lp_book_ai/ ✨
+https://wbrunotech.github.io/lp_book_ai/
